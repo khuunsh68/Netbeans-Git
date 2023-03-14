@@ -14,8 +14,7 @@ public class GitRepositorio {
         int result = 4 + 4;
         System.out.println("Ola maltinha!");
         System.out.println("Sou o Goncalo!");
-        //commit teste
-        //commit 2
+        //commit test
         System.out.println(result);
     }
 }
